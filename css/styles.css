@@ -1,0 +1,27 @@
+#movieImage {
+    width: 600px;
+}
+
+#mainData, #miscData {
+    border: 5px solid blue;
+    border-radius: 20px;
+    padding: 25px;
+    margin-bottom: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    width: fit-content;
+    background-color: lightblue;
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+
